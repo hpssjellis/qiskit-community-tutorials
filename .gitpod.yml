@@ -3,8 +3,7 @@ image:
   
   
 tasks:
-  - init:     pip3 install --upgrade pip3                                                                                &&
-              pip3 jupyter pandas  qiskit  nbconvert                                                                     &&
+  - init:     pip3 install jupyter pandas  qiskit  nbconvert                                                             &&
               pip3 install git+https://github.com/qiskit-community/qiskit-textbook.git#subdirectory=qiskit-textbook-src  &&
               pip3 install matplotlib notebook ipywidgets rise 
     command: jupyter notebook 
