@@ -7,5 +7,4 @@ tasks:
               pip3 jupyter pandas  qiskit  nbconvert                                                                     &&
               pip3 install git+https://github.com/qiskit-community/qiskit-textbook.git#subdirectory=qiskit-textbook-src  &&
               pip3 install matplotlib notebook ipywidgets rise 
-    command: jupyter notebook --generate-config                                                                          &&
-             jupyter notebook 
+    command: jupyter notebook 
