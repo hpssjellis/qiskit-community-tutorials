@@ -3,7 +3,8 @@ image:
   
   
 tasks:
-  - init:     pip3 install jupyter pandas                               &&
+  - init:     pip3 install jupyter pandas  qiskit[visualization]                                                         &&
+              pip3 install git+https://github.com/qiskit-community/qiskit-textbook.git#subdirectory=qiskit-textbook-src  &&
               pip3 install matplotlib notebook ipywidgets rise 
-    command: jupyter notebook --generate-config                         &&
-             jupyter notebook --generate-config
+    command: jupyter notebook --generate-config                                                                          &&
+             jupyter notebook 
