@@ -1,5 +1,17 @@
 # Qiskit Community Tutorials
 
+
+
+Gitpod update Dec 10th, 2020 by Jeremy Ellis
+
+https://gitpod.io/#github.com/hpssjellis/qiskit-community-tutorials
+
+```
+Most of the loa should be automatic. You probably will have to find the token in the given URL to plug in the the opened browser. 
+
+```
+
+
 [![License](https://img.shields.io/github/license/Qiskit/qiskit-tutorials.svg?style=popout-square)](https://opensource.org/licenses/Apache-2.0)
 
 Welcome to the [Qiskit](https://www.qiskit.org/) community tutorials!
