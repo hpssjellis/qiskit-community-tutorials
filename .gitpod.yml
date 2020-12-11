@@ -6,4 +6,5 @@ tasks:
   - init:     pip3 install jupyter pandas  qiskit  nbconvert                                                             &&
               pip3 install git+https://github.com/qiskit-community/qiskit-textbook.git#subdirectory=qiskit-textbook-src  &&
               pip3 install matplotlib notebook ipywidgets rise 
-    command: jupyter notebook 
+    command:  cp -r /workspace/qiskit-community-tutorials/.jupyter /home/gitpod/                                         &&
+              jupyter notebook 
