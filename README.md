@@ -2,7 +2,7 @@
 
 
 
-Gitpod update Dec 10th, 2020 by Jeremy Ellis
+Gitpod (the online browser docker) update Dec 10th, 2020 by Jeremy Ellis
 
 https://gitpod.io/#github.com/hpssjellis/qiskit-community-tutorials
 
