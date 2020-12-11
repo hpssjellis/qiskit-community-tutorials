@@ -7,7 +7,7 @@ Gitpod (the online browser docker) update Dec 10th, 2020 by Jeremy Ellis  https:
 https://gitpod.io/#github.com/hpssjellis/qiskit-community-tutorials
 
 ```
-Most of the loa should be automatic. You probably will have to find the token in the given URL to plug in the the opened browser. 
+Most of the load should be automatic. You probably will have to find the token in the given URL to plug in the the opened browser. 
 
 ```
 
